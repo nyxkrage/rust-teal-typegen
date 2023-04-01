@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "lua_derive",
+    "mlua",
+    "mlua/mlua_derive",
+    "rust-teal-typegen",
+    "teal-parser",
+]

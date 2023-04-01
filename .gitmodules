@@ -1,0 +1,6 @@
+[submodule "mlua"]
+	path = mlua
+	url = https://github.com/nyxkrage/mlua
+[submodule "tree-sitter-teal"]
+	path = tree-sitter-teal
+	url = https://github.com/euclidianAce/tree-sitter-teal

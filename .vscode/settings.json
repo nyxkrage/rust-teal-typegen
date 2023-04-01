@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.cargo.features": [
+        "lua54", "vendored"
+    ]
+}
